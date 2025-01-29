@@ -94,7 +94,7 @@ car["color"] = "red"
 print(x) #after the change 
 
 #To determine if a specified key is present in a dictionary use the in keyword:
-Example
+
 
 #Check if "model" is present in the dictionary:
 thisdict =	{
